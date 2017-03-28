@@ -22,7 +22,7 @@
 # topic groups and topics on the main page.
 ---
 Name: Cloud API Reference
-Dir: cloud-api
+Dir: guides/cloud-api
 Topics:
   - Name: Cache
     File: cache
@@ -47,7 +47,7 @@ Topics:
     File: sync
 ---
 Name: Client SDK
-Dir: client-sdk
+Dir: guides/client-sdk
 Topics:
   - Name: package-distribution-setup
     File: package-distribution-setup
@@ -73,7 +73,7 @@ Topics:
     File: appcelerator-titanium
 ---
 Name: Client API
-Dir: client-api
+Dir: guides/client-api
 Topics:
   - Name: auth
     File: auth
